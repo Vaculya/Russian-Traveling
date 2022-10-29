@@ -2,5 +2,6 @@
   max-width: 984px;
   margin: 0 auto;
   display: grid;
+  gap: 80px;
   padding-bottom: 92px;
 }
