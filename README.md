@@ -15,6 +15,6 @@
   4. Адаптация
 
 ## Ссылка на страницу:
-  1. https://vaculya.github.io/Travelling.github.io/
+  1. https://vaculya.github.io/russian-travel.github.io/
 
 
