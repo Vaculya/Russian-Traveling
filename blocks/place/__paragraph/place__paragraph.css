@@ -22,5 +22,10 @@
 @media screen and (max-width: 720px) {
   .place__paragraph{
     grid-column: 1;
+    margin-left: 16px;
+    margin-right: 16px;
+  }
+  .place__paragraph:first-of-type{
+    margin-top: 32px;
   }
 }

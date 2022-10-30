@@ -16,5 +16,19 @@
   .places{
     max-width: 720px;
     padding: 0 24px 88px 24px;
+    page-break-after: 73px;
+  }
+}
+
+@media screen and (max-width:720px){
+  .places{
+    padding: 0 0 88px 0;
+  }
+}
+
+@media screen and (max-width:320px){
+  .places{
+    gap: 50px;
+    padding-bottom: 64px;
   }
 }
