@@ -1,5 +1,14 @@
 .cover{
-  min-height: 740px;
+  /* min-height: 740px; */
+  max-width: 1184px;
+  margin: 0 auto;
   width: 100%;
   padding-bottom: 92px;
+}
+
+@media screen and (max-width:1024px){
+  .cover{
+    max-width: 1024px;
+    /* min-height: 640px; */
+  }
 }

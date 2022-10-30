@@ -1,7 +1,13 @@
 .lead{
-    min-height: 1005px;
     max-width: 984px;
     margin: 0 auto;
     padding-bottom: 92px;
     text-align: center;
+}
+
+@media screen and (max-width: 1024px){
+    .lead{
+        max-width: 928px;
+        padding: 0 24px 92px 24px;
+    }
 }
