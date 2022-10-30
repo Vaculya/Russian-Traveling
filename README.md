@@ -12,7 +12,7 @@
   1. FlexBox
   2. Grid
   3. БЭМ
-  4. Адаптация
+  4. Адаптация страницы
 
 ## Ссылка на страницу:
   1. https://vaculya.github.io/russian-travel.github.io/
